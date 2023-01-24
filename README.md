@@ -1,4 +1,4 @@
-![gamesandstuff](https://user-images.githubusercontent.com/68365423/199411065-61e6c76c-72c0-46f3-9e8d-195eb69f58f5.png)
+![gamesandstuff](https://https://yt3.ggpht.com/nxHAZFT_Sm-upsfiVJcUY69B7rjHfAbmbn0NE2xDhiryrisSEo6pNPhbL1FFXOPkO4jH61L_Gg=s176-c-k-c0x00ffffff-no-rj)
 <div align="center">
 
 ## A thing that is yes
