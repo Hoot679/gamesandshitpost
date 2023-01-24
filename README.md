@@ -1,11 +1,11 @@
-![gamesandstuff](https://external-preview.redd.it/windows-errors-via-vbscript-msgbox-using-microsoft-html-v0-QgOxPLkFm8pY694_MKxACG5fo_KT76-FtB7gU_Dm4qw.png?auto=webp&s=b1524cd84fc8f4bf7e271f66ac48355e3e320615)
+![gamesandshitpost](https://external-preview.redd.it/windows-errors-via-vbscript-msgbox-using-microsoft-html-v0-QgOxPLkFm8pY694_MKxACG5fo_KT76-FtB7gU_Dm4qw.png?auto=webp&s=b1524cd84fc8f4bf7e271f66ac48355e3e320615)
 <div align="center">
 
 ## A thing that is yes
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppp
 
-[Stable](https://gamesandstuff.letsgoaway.repl.co) | [Development](https://gamesandstuffdevver.letsgoaway.repl.co) | [Windows Launcher](https://gamesandstuffdl--letsgoaway.repl.co)
+[Stable](http://localhost) | [Development](https://www.google.com/search?q=how+to+get+rickrolled&oq=how+to+get+rickrolled&aqs=chrome.0.0i512j0i22i30l7j0i390l2.4882j0j1&sourceid=chrome&ie=UTF-8) | [Windows Launcher](https://https://drive.google.com/file/d/10IyAjZi8cd6GtAs8mDzaDjI7CK23p5Dr/view?usp=sharing)
 </div>
 
 # About
