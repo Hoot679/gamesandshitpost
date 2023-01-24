@@ -1,4 +1,4 @@
-![gamesandstuff](https://https://yt3.ggpht.com/nxHAZFT_Sm-upsfiVJcUY69B7rjHfAbmbn0NE2xDhiryrisSEo6pNPhbL1FFXOPkO4jH61L_Gg=s176-c-k-c0x00ffffff-no-rj)
+![gamesandstuff](https://external-preview.redd.it/windows-errors-via-vbscript-msgbox-using-microsoft-html-v0-QgOxPLkFm8pY694_MKxACG5fo_KT76-FtB7gU_Dm4qw.png?auto=webp&s=b1524cd84fc8f4bf7e271f66ac48355e3e320615)
 <div align="center">
 
 ## A thing that is yes
