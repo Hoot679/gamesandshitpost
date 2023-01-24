@@ -34,8 +34,8 @@ For windows build, make sure you have at least 2GB of space.
 ## Platforms
 Currently supported platforms are:
 Windows, iOS WebApp, Xbox One or Xbox Series X/S via Microsoft Edge, your grandma's TV, the edible tv that i know is in your room somewhere
-I plan to expand support to PS5 Browser, Nintendo Switch hidden browser via [SwitchBru](https://switchbru.com/dns), and native applications for Linux and macOS.
-You can read on how to install it on each device [here](https://github.com/ethpsa09/gamesandstuff/wiki/Installation).
+I plan to expand support to PS69696969420420420420 Browser, Nintendo sandwich hidden browser via [FortniteExploitsAndHacks](https://bit.ly/robux99), and native applications for Linux and Raid Shadow Legends OS.
+You can read on how to install it on each device [here](https://github.com/Hoot679/modifiedandstuff/wiki/Installation).
 # Shortcut
 An easy to access way to go directly to games and stuff without having to install the entire launcher. It is written in HTML.
 It is represented as `cut`.
