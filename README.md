@@ -1,11 +1,9 @@
 ![gamesandstuff](https://user-images.githubusercontent.com/68365423/199411065-61e6c76c-72c0-46f3-9e8d-195eb69f58f5.png)
 <div align="center">
 
-## A frontend launcher for playing games on many devices at school, home or anywhere else.
+## A thing that is yes
 
-[![Platforms](https://img.shields.io/badge/platforms-ios%20pwa%20%7C%20windows%20%7C%20web%20%7C%20xbox%20via%20ms%20edge-lightgrey)](data:text/html,<script>history.back()</script>)
-[![Discord](https://discordapp.com/api/guilds/828428540272967680/widget.png?style=shield)](https://discord.gg/up7VmmCPhn)
-![Size](https://img.shields.io/github/repo-size/ethpsa09/gamesandstuff)
+pppppppppppppppppppppppppppppppppppppppppppppppppppp
 
 [Stable](https://gamesandstuff.letsgoaway.repl.co) | [Development](https://gamesandstuffdevver.letsgoaway.repl.co) | [Windows Launcher](https://gamesandstuffdl--letsgoaway.repl.co)
 </div>
@@ -16,7 +14,7 @@ Games and Stuff is a frontend UI for launching games hosted online. I mainly use
 # Launcher
 The main interface. It is written in Haxe using OpenFL and HaxeFlixel.
 It is represented as `launch`.
-## Build Instructions
+## Build Instructions (same as normal gamesandstuff)
 Before building, you'll need to install Haxe. Go to [https://haxe.org/download/](https://haxe.org/download/) and install it.
 
 Once it is installed, open your terminal as admin and write the commands:
@@ -36,7 +34,7 @@ Then run any of the bat files, then it should work!
 For windows build, make sure you have at least 2GB of space.
 ## Platforms
 Currently supported platforms are:
-Windows, iOS WebApp, Xbox One or Xbox Series X/S via Microsoft Edge and the Web.
+Windows, iOS WebApp, Xbox One or Xbox Series X/S via Microsoft Edge, your grandma's TV, the edible tv that i know is in your room somewhere
 I plan to expand support to PS5 Browser, Nintendo Switch hidden browser via [SwitchBru](https://switchbru.com/dns), and native applications for Linux and macOS.
 You can read on how to install it on each device [here](https://github.com/ethpsa09/gamesandstuff/wiki/Installation).
 # Shortcut
@@ -47,3 +45,4 @@ Windows only for now as it is an HTA Application.
 # Disclaimer
 Some of the things that are in my app I do not own, such as game logos and game characters.
 An update will be out soon where it adds the developers of the games under the game logo.
+im in your walls
