@@ -11,8 +11,8 @@ pppppppppppppppppppppppppppppppppppppppppppppppppppp
 # About
 Active development is now underway. User interface for games and recipes online games. I use repl.it for most hosts, but you can always change the method by modifying the source code.
 # Launcher
-The main interface. It is written in Haxe using OpenFL and HaxeFlixel.
-It is represented as `launch`.
+The main interface. It is written in Haxe using FortniteHacks and Friday Night Funkin gun mod.
+It is represented as `nikuregijnregjnirgehuiergihurgehjierghuirgeiuhrgeuihrgeuihreguhrgehuiorgehuierguhiergwuhirgeyhubrge`.
 ## Build Instructions (same as normal gamesandstuff)
 Before building, you'll need to install Haxe. Go to [https://haxe.org/download/](https://haxe.org/download/) and install it.
 
