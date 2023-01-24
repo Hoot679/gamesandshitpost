@@ -44,3 +44,6 @@ Windows version can be accessed by breaking your walls, eating them, doing nothi
 Some of the things that are in my app I do not own, such as game logos and game characters.
 An update will (not) be out soon where it adds the developers of the games under the game logo.
 im in your walls
+
+# my toe hurts
+i think i accidently hit it with the crowbar
