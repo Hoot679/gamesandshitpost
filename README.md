@@ -5,7 +5,7 @@
 
 pppppppppppppppppppppppppppppppppppppppppppppppppppp
 
-[Stable](http://localhost) | [Development](https://bit.ly/gamesandcrappost) | [Windows Launcher](https://https://drive.google.com/file/d/10IyAjZi8cd6GtAs8mDzaDjI7CK23p5Dr/view?usp=sharing)
+[Stable](http://localhost) | [Development](https://bit.ly/gamesandcrappost) | [Windows Launcher](https://drive.google.com/file/d/10IyAjZi8cd6GtAs8mDzaDjI7CK23p5Dr/view?usp=sharing)
 </div>
 
 # About
