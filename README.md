@@ -37,11 +37,10 @@ Windows, iOS WebApp, Xbox One or Xbox Series X/S via Microsoft Edge, your grandm
 I plan to expand support to PS69696969420420420420 Browser, Nintendo sandwich hidden browser via [FortniteExploitsAndHacks](https://bit.ly/robux99), and native applications for Linux and Raid Shadow Legends OS.
 You can read on how to install it on each device [here](https://github.com/Hoot679/modifiedandstuff/wiki/Installation).
 # Shortcut
-An easy to access way to go directly to games and stuff without having to install the entire launcher. It is written in HTML.
-It is represented as `cut`.
+An easy to access way to go directly to games and stuff without having to install Roblox.
 ## Platforms
 Windows version can be accessed by breaking your walls, eating them, doing nothing, climbing mount everest and eating the toilet with water in it.
 # Disclaimer
 Some of the things that are in my app I do not own, such as game logos and game characters.
-An update will be out soon where it adds the developers of the games under the game logo.
+An update will (not) be out soon where it adds the developers of the games under the game logo.
 im in your walls
