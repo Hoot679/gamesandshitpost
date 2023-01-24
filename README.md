@@ -9,8 +9,7 @@ pppppppppppppppppppppppppppppppppppppppppppppppppppp
 </div>
 
 # About
-We are currently under active development.
-Games and Stuff is a frontend UI for launching games hosted online. I mainly use repl.it to host, but by editing the source code you can redirect to what ever.
+Active development is now underway. User interface for games and recipes online games. I use repl.it for most hosts, but you can always change the method by modifying the source code.
 # Launcher
 The main interface. It is written in Haxe using OpenFL and HaxeFlixel.
 It is represented as `launch`.
